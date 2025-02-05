@@ -152,4 +152,4 @@ Bright Data 的 CAPTCHA Solver 支持多种 CAPTCHA 类型，包括：
 ---  
 
 ## **告别 Cloudflare CAPTCHA 的烦恼**  
-立即开始免费试用，体验 Bright Data 带来的无缝 [Cloudflare Turnstile CAPTCHA 解决](https://bright.cn/products/web-unlocker/captcha-solver/cloudflare-turnstile)！
+立即开始免费试用，体验 Bright Data 带来的无缝 [Cloudflare Turnstile CAPTCHA 解决](https://brightdata.com/products/web-unlocker/captcha-solver/cloudflare-turnstile)！
