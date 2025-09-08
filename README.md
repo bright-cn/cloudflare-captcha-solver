@@ -100,16 +100,16 @@ Bright Data 的 CAPTCHA Solver 支持多种 CAPTCHA 类型，包括：
 - [**reCAPTCHA**](https://bright.cn/products/web-unlocker/captcha-solver/recaptcha)  
 - [**Click Captcha**](https://bright.cn/products/web-unlocker/captcha-solver/click-captcha)  
 - [**Cloudflare**](https://bright.cn/products/web-unlocker/captcha-solver/Cloudflare)  
-- [**PerimeterX**](https://brightdata.com/products/web-unlocker/captcha-solver/perimeterx)  
+- [**PerimeterX**](https://www.bright.cn/products/web-unlocker/captcha-solver/perimeterx)  
 - [**SimpleCaptcha**](https://bright.cn/products/web-unlocker/captcha-solver/simplecaptcha)  
 - [**FunCaptcha**](https://bright.cn/products/web-unlocker/captcha-solver/funcaptcha)  
-- [**Cloudflare Turnstile**](https://brightdata.com/products/web-unlocker/captcha-solver/cloudflare-turnstile)  
-- [**AWS WAF Captcha**](https://brightdata.com/products/web-unlocker/captcha-solver/aws-waf-captcha)  
-- [**GeeTest CAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/geetest-captcha)  
+- [**Cloudflare Turnstile**](https://www.bright.cn/products/web-unlocker/captcha-solver/cloudflare-turnstile)  
+- [**AWS WAF Captcha**](https://www.bright.cn/products/web-unlocker/captcha-solver/aws-waf-captcha)  
+- [**GeeTest CAPTCHA**](https://www.bright.cn/products/web-unlocker/captcha-solver/geetest-captcha)  
 - [**KeyCAPTCHA**](https://bright.cn/products/web-unlocker/captcha-solver/keycaptcha)  
 - [**Puzzle CAPTCHA**](https://bright.cn/products/web-unlocker/captcha-solver/puzzle-captcha)  
 - [**Yandex CAPTCHA**](https://bright.cn/products/web-unlocker/captcha-solver/yandex-captcha)  
-- [**Image CAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/image-captcha)  
+- [**Image CAPTCHA**](https://www.bright.cn/products/web-unlocker/captcha-solver/image-captcha)  
 - [**Text CAPTCHA**](https://bright.cn/products/web-unlocker/captcha-solver/text-captcha)  
 
 ## 高级自定义  
@@ -152,4 +152,4 @@ Bright Data 的 CAPTCHA Solver 支持多种 CAPTCHA 类型，包括：
 ---  
 
 ## **告别 Cloudflare CAPTCHA 的烦恼**  
-立即开始免费试用，体验 Bright Data 带来的无缝 [Cloudflare Turnstile CAPTCHA 解决](https://brightdata.com/products/web-unlocker/captcha-solver/cloudflare-turnstile)！
+立即开始免费试用，体验 Bright Data 带来的无缝 [Cloudflare Turnstile CAPTCHA 解决](https://www.bright.cn/products/web-unlocker/captcha-solver/cloudflare-turnstile)！
